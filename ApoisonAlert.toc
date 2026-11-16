@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: A Poison Alert
+## Notes: Aviso de veneno. Haz clic en un veneno de la bolsa y luego clic en el icono para configurarlo.
+## Author: Alejandro HeXoDuS
+## Version: 3.0
+## SavedVariables: ApoisonAlertDB
+
+ApoisonAlert.lua
